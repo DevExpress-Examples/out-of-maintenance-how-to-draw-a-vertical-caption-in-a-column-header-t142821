@@ -1,13 +1,13 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [ColumnCustomizationListBoxEx.cs](./CS/MyXtraGrid/Custom Grid Control/ColumnCustomizationListBoxEx.cs) (VB: [ColumnCustomizationListBoxEx.vb](./VB/MyXtraGrid/Custom Grid Control/ColumnCustomizationListBoxEx.vb))
-* [CustomizationFormEx.cs](./CS/MyXtraGrid/Custom Grid Control/CustomizationFormEx.cs) (VB: [CustomizationFormEx.vb](./VB/MyXtraGrid/Custom Grid Control/CustomizationFormEx.vb))
-* [MyGridControl.cs](./CS/MyXtraGrid/Custom Grid Control/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyXtraGrid/Custom Grid Control/MyGridControl.vb))
-* [MyGridRegistration.cs](./CS/MyXtraGrid/Custom Grid Control/MyGridRegistration.cs) (VB: [MyGridRegistration.vb](./VB/MyXtraGrid/Custom Grid Control/MyGridRegistration.vb))
-* [MyGridView.cs](./CS/MyXtraGrid/Custom Grid Control/MyGridView.cs) (VB: [MyGridViewInfo.vb](./VB/MyXtraGrid/Custom Grid Control/MyGridViewInfo.vb))
-* [MyGridViewInfo.cs](./CS/MyXtraGrid/Custom Grid Control/MyGridViewInfo.cs) (VB: [MyGridViewInfo.vb](./VB/MyXtraGrid/Custom Grid Control/MyGridViewInfo.vb))
-* [Customer.cs](./CS/MyXtraGrid/Data class/Customer.cs) (VB: [Customer.vb](./VB/MyXtraGrid/Data class/Customer.vb))
+* [ColumnCustomizationListBoxEx.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/ColumnCustomizationListBoxEx.cs) (VB: [ColumnCustomizationListBoxEx.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/ColumnCustomizationListBoxEx.vb))
+* [CustomizationFormEx.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/CustomizationFormEx.cs) (VB: [CustomizationFormEx.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/CustomizationFormEx.vb))
+* [MyGridControl.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/MyGridControl.vb))
+* [MyGridRegistration.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/MyGridRegistration.cs) (VB: [MyGridRegistration.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/MyGridRegistration.vb))
+* [MyGridView.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/MyGridView.cs) (VB: [MyGridViewInfo.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/MyGridViewInfo.vb))
+* [MyGridViewInfo.cs](./CS/MyXtraGrid/Custom%20Grid%20Control/MyGridViewInfo.cs) (VB: [MyGridViewInfo.vb](./VB/MyXtraGrid/Custom%20Grid%20Control/MyGridViewInfo.vb))
+* [Customer.cs](./CS/MyXtraGrid/Data%20class/Customer.cs) (VB: [Customer.vb](./VB/MyXtraGrid/Data%20class/Customer.vb))
 * [Form1.cs](./CS/MyXtraGrid/Form1.cs) (VB: [Form1.vb](./VB/MyXtraGrid/Form1.vb))
 * [Program.cs](./CS/MyXtraGrid/Program.cs) (VB: [Program.vb](./VB/MyXtraGrid/Program.vb))
 <!-- default file list end -->
